@@ -1,4 +1,6 @@
-# patchright-enhanced
+# patchright-enhanced 
+
+<a href="https://trendshift.io/repositories/242710?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-242710" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/242710/daily?language=TypeScript" alt="whaleyxbt%2Fpatchright-enhanced | Trendshift" width="250" height="55"/></a>
 
 stealth browser automation framework for penetration testing, scraping, and WAF bypass. Built on [Patchright](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright-nodejs).
 
